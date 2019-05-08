@@ -1,2 +1,2 @@
-# alura-pring-mvc-1-criando-aplicacoes-web
-pring-mvc-1-criando-aplicacoes-web
+# alura-spring-mvc-1-criando-aplicacoes-web
+spring-mvc-1-criando-aplicacoes-web
